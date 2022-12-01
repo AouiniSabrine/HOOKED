@@ -1,12 +1,13 @@
-import React from 'react'
 import MovieCards from './MovieCards'
 
-function MovieListe({movies}) {
+function MovieListe ({movies,input}) {
+  
   return (
     <div>
       {
-        movies.map(el=>
-            <MovieCards el={el} />
+        movies.filter(el=> el.name.toLowerCase().includes(input.toLowerCase().trim()))
+        .map(el=>
+            <MovieCards el={el}/>
         
           )
       }

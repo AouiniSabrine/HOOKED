@@ -2,88 +2,50 @@ export const MovieData = [
     {
       id: 1,
       image:
-        "https://i.inews.co.uk/content/uploads/2020/04/money-heist-first-impression-1200-640x360.jpg",
-      rating: 4,
-      name: "casa del papel",
-      date: "1976",
-      type: "Crime | Drama",
-      seasons: "2 seasons",
+      "https://occ-0-1381-1723.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABaUHhIni8Ui68RvPxmg3mqtuPK5sjLS3a_NNfLWBicSCLtqPwR8RCc-w2YTyv6E0_ZjOLW_3vPnrok_7UXhBijObFuRuWt5s5Xj6BQKVTU44RxnjI02DvDziaoGpnNQAUp33.jpg?r=3d8 " ,   
+      rating: 4.8,
+      name: "The Swimmers",
+      year: "2022",
+      type: "True Story | Drama",
+      seasons: "1 season",
       description:
-        "A mentally unstable driver in Ned sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute."
+        " From war-torn Syria to the 2016 Rio Olympics, two young sisters embark on a risky voyage, putting their hearts and their swimming skills to heroic use. "
     },
   {
       id: 2,
       image:
-        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/papillon-2017-charlie-hunnam-y-rami-malek-1548866422.jpg",
-      rating: 1,
-      name: "Papillon",
-      date: "2006",
-      type: "Comedy | Drama",
-      seasons: "4 seasons",
+        " https://fr.web.img4.acsta.net/medias/nmedia/18/73/01/74/19343191.jpg  ",
+      rating: 3.9,
+      name: "  Dragons  ",
+      year: "  2010 ",
+      type: " Animation  ",
+      seasons: " 3 Seasons  ",
       description:
-        "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus."
+        " Harold, jeune apprenti forgeron et fils du chef Stoïk, essaye d'apporter son aide aux guerriers mais sa maladresse provoque plus de dégâts encore. Curieux et inventif, il arrive à toucher en plein vol un dragon furtif avec un canon de son invention mais personne ne le croit. "
     },
   {
       id: 3,
       image:
-        "https://thebishopstower.com/wp-content/uploads/2021/02/queens-gambit.jpg",
-      rating: 3,
-      name: "Queen's Gambit",
-      date: "2006",
-      type: "Comedy | Drama",
-      seasons: "4 seasons",
+        " https://fr.web.img5.acsta.net/pictures/20/02/07/09/27/1987472.jpg ",
+      rating: 3.6,
+      name: "All the Bright Places ",
+      year: "2020  ",
+      type: " Drama ",
+      seasons: " 1 Season  ",
       description:
-        "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus."
+        "Deux adolescents suicidaires se rencontrent et réapprennent à aimer la vie. "
     },
   
   {
       id: 4,
       image:
-        "https://s4844.pcdn.co/wp-content/uploads/2014/11/interstellar-photos-pictures-stills.jpg",
-      rating: 4,
-      name: "Mad Max",
-      date: "1979",
-      type: "Action | Adventure",
-      seasons: "5 seasons",
+        " https://upload.wikimedia.org/wikipedia/en/b/bd/Bird_Box_%28film%29.png",
+      rating: 4.3,
+      name: "Bird Box ",
+      year: "2018",
+      type: " Horror | SF ",
+      seasons: " 1 Season  ",
       description:
-        "In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang."
-    },
-    {
-      id: 5,
-      image:
-        "https://customonesixth.com/attachments/kakaotalk_20210601_001650757_01-jpg.434178/",
-      rating: 3,
-      name: "Little Miss Sunshine",
-      date: "2006",
-      type: "Comedy | Drama",
-      seasons: "4 seasons",
-      description:
-        "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus."
-    },
-    {
-      id: 6,
-      image:
-        "https://i.inews.co.uk/content/uploads/2020/04/money-heist-first-impression-1200-640x360.jpg",
-      rating: 4,
-      name: "Mad Max",
-      date: "1979",
-      type: "Action | Adventure",
-      seasons: "5 seasons",
-      description:
-        "In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang."
-    },
- 
-  {
-      id: 7,
-      image:
-        "https://cdn1.ntv.com.tr/gorsel/mWUBO2O0gESc9db9rQHfJw.jpg?width=1000&mode=crop&scale=both",
-      rating: 5,
-      name: "KILL BILL: VOL. 1",
-      date: "2003",
-      type: "Action",
-      seasons: "2 seasons",
-      description:
-        "The lead character, called 'The Bride,' was a member of the Deadly Viper Assassination Squad, led by her lover 'Bill.'The Bride' decided to escape her life as a killer.",
-      details: "https://www.imdb.com/title/tt0266697/plotsummary?ref_=tt_stry_pl"
+        "   Five years after an ominous unseen presence drives most of society to suicide, a mother and her two children make a desperate bid to reach safety.   "
     }
   ];
